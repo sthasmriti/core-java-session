@@ -1,15 +1,14 @@
 package javasession;
 
-public class Animal {
+public class Student {
     //States
 
-    //dog
-    //cat
-    //deer
-    //elephant
-    //bear
-    //lion
-    //tiger
-    //tortoise
+    //studentNames
+    //studentAddress
+    //studentNumber
+    //studentEmail
+    //studentParents
+    //studentRanking
+    //extraCurricularRanking
 
 }

@@ -1,12 +1,12 @@
 package javasession;
 
-public class Season {
+public class Clothing {
     //States
 
-    //winter
-    //summer
-    //autumn
-    //spring
-    //fall
+    //gender
+    //fabrics
+    //brand
+    //design
+    //seasonal
 
 }
